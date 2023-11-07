@@ -669,6 +669,7 @@ hr {
 }
     .img {
         max-width: 75%;
+
     }
 }
 
@@ -681,6 +682,7 @@ hr {
     }
     .img {
         max-width: 100%;
+
     }
     .footer__content{
         display: flex;
